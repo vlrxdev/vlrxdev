@@ -1,0 +1,80 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Kanagawa Wave",
+    "editor.fontSize": 18,
+
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.indent": 14,
+
+    "explorer.confirmDragAndDrop": true,
+    "explorer.confirmDelete": false,
+
+    "workbench.sideBar.location": "right",
+    
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.minimap.enabled": false,
+    "editor.matchBrackets": "never",
+    "editor.occurrencesHighlight": "off",
+    "editor.overviewRulerBorder": false,
+    "editor.hideCursorInOverviewRuler": true,
+    "editor.stickyScroll.enabled": false,
+
+    "workbench.colorCustomizations": {
+        "editorCursor.background": "#0000",
+        "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+        "editorOverviewRuler.selectionHighlightForeground": "#0000",
+        "editorOverviewRuler.rangeHighlightForeground": "#0000",
+        "editorOverviewRuler.wordHighlightForeground": "#0000",
+        "editorOverviewRuler.bracketMatchForeground": "#0000",
+        "editorOverviewRuler.findMatchForeground": "#0000",
+        "editorOverviewRuler.modifiedForeground": "#0000",
+        "editorOverviewRuler.deletedForeground": "#0000",
+        "editorOverviewRuler.warningForeground": "#0000",
+        "editorOverviewRuler.addedForeground": "#0000",
+        "editorOverviewRuler.errorForeground": "#0000",
+        "editorOverviewRuler.infoForeground": "#0000",
+        "editorOverviewRuler.border": "#0000",
+    },
+    "workbench.activityBar.location": "hidden",
+
+    "chat.commandCenter.enabled": false,
+    "workbench.layoutControl.enabled": false,
+    
+    "window.menuBarVisibility": "toggle",
+
+    "explorer.decorations.badges": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+
+    "workbench.startupEditor": "none",
+
+    "editor.tabSize": 4,
+
+    "files.insertFinalNewline": true,
+
+    "workbench.tips.enabled": false,
+
+    "editor.detectIndentation": false,
+
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.cursorBlinking": "solid",
+    "extensions.ignoreRecommendations": true,
+    "update.mode": "none",
+    "files.autoSave": "afterDelay",
+    "editor.guides.indentation": false,
+    "editor.showFoldingControls": "never",
+    "editor.lightbulb.enabled": "off",
+    
+
+    "background.fullscreen": {
+    // Local images can be dragged into the browser to quickly get the file protocol address from the address bar
+    "images": [""],
+    "opacity": 0.1,
+    "size": "cover",
+    "position": "center",
+    "interval": 0,
+    "random": false
+  },
+    
+}
